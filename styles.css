@@ -1,0 +1,15 @@
+#carouselExampleInterval{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    width:80%;
+}
+
+body{
+    background-image: url(images/background2.jpg);
+    background-size: 800px;
+    background-blend-mode: color-burn;
+    
+}
